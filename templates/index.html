@@ -1,0 +1,7 @@
+{% extends "base.html" %}
+{% block content %}
+<h1> Hello {{  user.username }}</h1>
+{% for car in cars %}
+<div><p>{{ car.model }} is owned by <b> {{ car.owner.username }}</b></p></div>
+{% endfor %}
+{% endblock %}

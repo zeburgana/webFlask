@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="raspiDB" uuid="6844c01e-a6a8-49dd-938f-d3f6bfc2a0c5">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" dbms="MONGO" exact-version="0" />
+      <secret-storage>master_key</secret-storage>
+      <user-name>lapdawg</user-name>
+      <schema-mapping />
+    </data-source>
+  </component>
+</project>
